@@ -1,5 +1,5 @@
-# Day 1 
-Task 1 :
+# AIS16628
+# Task 1 :
 
  1. Anaconda Software downloading & installing
  2. Variable declaration rules.
@@ -10,16 +10,16 @@ Task 1 :
 
     Mutable data type - 1) Set. 2) List. 3) Dictionary.
 
-# Day 2  
-Task 2 :
+
+# Task 2 :
   1. If Conditions.
   2. If else conditions.
   3. If elif conditions.
   4. For loop.
   5. While loop.
 
-# Day 3 
-Task 3 :
+ 
+# Task 3 :
 
  Control Statement : 
    1. Break Statement.
@@ -30,13 +30,13 @@ Task 3 :
 
  Logical User Defined Functions.
 
-# Day 4  
-Task 4 :
+ 
+# Task 4 :
 
   Creating Numpy Tutorial & Numpy Random 
 
-# Day 5 
-Task 5 :
+ 
+# Task 5 :
 
 Series - Creation & Operation.
 Data Frame -
@@ -53,20 +53,37 @@ Selection -
 
 Missing values - Missing value checking , drop by row , drop by column & fill(mean , median).
 
-#Day 6  
-Task 6 : 
+
+# Task 6 : 
 
 Data Visualisation : Scatter plot, Bar plot, Joint bar plot, pie chart, Line plot, Histogram, subplots in matplotlib & Seaborn library.
 
-# Day 7 
-Task 7 :
+ 
+# Task 7 :
 
 Solving Exercise
    1. Ecommerce purchasers.
    2. Numpy.
    3. SF Salaries
 
-# Day 8 
-Task 8 : 
 
-Case Study :
+# Task 8 : 
+
+Case Study 1
+
+   1. Read data & import necessary libraries.
+   2. Data preprocessing.
+   3. Visualisation.
+   4. Model building.
+   5. Model evaluation
+   6. Comparison.
+
+
+# Task 9 :
+
+Power BI Dashboard : Create Dashboard using water quality prediction data.
+
+# Task 10 :
+
+Project : Water Quality Prediction.
+
